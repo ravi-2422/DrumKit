@@ -72,7 +72,10 @@ function makeSound(key) {
 
 
         default:
-            console.log(key);
+             console.log(key);
+            // var kick = new Audio('sounds/kick-bass.mp3');
+            // kick.play();
+            // break;
 
     }
 }

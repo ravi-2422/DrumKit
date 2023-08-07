@@ -1,1 +1,1 @@
-# DrumKit
+# DrumKit Learning Project
